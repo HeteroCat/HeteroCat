@@ -1,4 +1,4 @@
-odex/generate-content-for-heterocat-repository-l6vnf0
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+HeteroCat!;Engineer+%7C+Maker+%7C+Learner" alt="Typing SVG" />
   <p>
@@ -9,44 +9,7 @@ odex/generate-content-for-heterocat-repository-l6vnf0
   <p><em>Documenting the journey of building, learning, and sharing in public.</em></p>
 </div>
 
----
 
-## 🧭 Quick Snapshot
-
-<table>
-  <tr>
-    <td>
-      <h4>Now</h4>
-      <ul>
-        <li>Iterating on open-source experiments and small utilities.</li>
-        <li>Refining documentation and cleaning up archived projects.</li>
-        <li>Collecting ideas for the next wave of personal builds.</li>
-      </ul>
-    </td>
-    <td>
-      <h4>Focus</h4>
-      <ul>
-        <li>Front-end ergonomics, component-driven design, and DX tooling.</li>
-        <li>Lightweight services with pragmatic automation.</li>
-        <li>Notes-first knowledge management and reproducible workflows.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary>🌏 中文简介</summary>
-  <p>
-    喜欢把点子落地成原型，记录踩坑心得，偶尔分享一些让开发更顺手的小工具。
-  </p>
-</details>
-
----
-
-## 📌 Projects & Activity
-
-- 🔍 想更快了解？请查看我在 GitHub 主页上钉住的仓库与最新的 contributions：<a href="https://github.com/HeteroCat" target="_blank">github.com/HeteroCat</a>
-- 🗂️ 对于代码和笔记的整理正在持续进行，欢迎提出 issue 或讨论。
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeteroCat&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
