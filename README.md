@@ -28,7 +28,7 @@ Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language m
 
 ## 🚀 Featured Projects
 
-- **[jason.ai](https://github.com/HeteroCat/jason.ai/blob/main/Hello.py)** – 个人主页项目，开放交流  
+- **[jason.ai](https://github.com/HeteroCat/jason.ai)** – 个人主页项目，开放交流  
 - **[hugging-llm](https://github.com/datawhalechina/hugging-llm)** – 《ChatGPT原理与应用开发》共创项目，汇总大模型案例与实战技巧  
 - **[AsyncTrader](https://github.com/HeteroCat/AsyncTrader)** – 2023 百度大模型挑战赛最佳创意奖，基于 LangChain 的量化交易智能体  
 - **[Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)** – AI 音乐 MV 创作计划  
