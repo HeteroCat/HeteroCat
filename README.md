@@ -9,21 +9,43 @@
   <p><em>Documenting the journey of building, learning, and sharing in public.</em></p>
 </div>
 
+## 👋 About Me
 
+Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language models with real-world products.
+
+- 🧠 专注于 LLM 智能体、AI 自动化工作流，以及把提示词工程落地到企业业务场景。
+- 📚 《ChatGPT原理与应用开发》共创作者，持续在开源社区和掘金分享实践经验。
+- 🎵 探索 AI 音乐创作，运营个人品牌 **Butterstorm**。
+
+I believe in learning in public, iterating fast, and building delightful AI experiences.
+
+## 🚀 Featured Projects
+
+- **[HeteroCat/jason.ai](https://github.com/HeteroCat/jason.ai/blob/main/Hello.py)** – 极简 `Hello.py` 演示，用最简洁的 `print` 打招呼，提醒自己保持好奇心。
+- **[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)** – 共同撰写《ChatGPT原理与应用开发》，总结大模型应用案例与实战技巧。
+- **[HeteroCat/AsyncTrader](https://github.com/HeteroCat/AsyncTrader)** – 基于 LangChain 的量化交易智能体，自动生成策略并执行回测。
+- **[Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)** – 个人 AI 音乐项目，探索模型在创作中的更多可能性。
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeteroCat&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeteroCat&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeteroCat&show_icons=true&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeteroCat&layout=compact&bg_color=ffffff&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeteroCat&theme=react-dark&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeteroCat&theme=github&hide_border=true&bg_color=ffffff" alt="Activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeteroCat&theme=github_dark" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeteroCat&theme=github_dark" alt="Profile Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeteroCat&theme=default" alt="Profile Details" style="display:inline-block; width:48%; max-width:500px; background:#ffffff;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeteroCat&theme=default" alt="Profile Stats" style="display:inline-block; width:48%; max-width:500px; background:#ffffff;" />
 </div>
+
+## 📫 Connect
+
+- Blog: [Hetero Cat](https://juejin.cn/user/2221479480010573)
+- GitHub: [@HeteroCat](https://github.com/HeteroCat)
+- Email: 1580823387@qq.com
+- Douyin: [Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)
 
 ---
 
