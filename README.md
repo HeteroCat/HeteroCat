@@ -4,7 +4,6 @@
   <p>
     <a href="https://github.com/HeteroCat?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/HeteroCat?label=Followers&style=for-the-badge&color=4C8EDA" alt="GitHub followers" /></a>
     <a href="https://github.com/HeteroCat?tab=stars" target="_blank"><img src="https://img.shields.io/github/stars/HeteroCat?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=E9967A" alt="Total stars" /></a>
-    <a href="https://profile-counter.glitch.me/HeteroCat/count.svg" target="_blank"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fprofile-counter.glitch.me%2FHeteroCat%2Fcount.json&label=Visitors&query=%24.value&style=for-the-badge&color=7F9CF5" alt="Visitor badge" /></a>
   </p>
   <p><em>Documenting the journey of building, learning, and sharing in public.</em></p>
 </div>
@@ -23,8 +22,8 @@ I believe in learning in public, iterating fast, and building delightful AI expe
 
 - **[HeteroCat/jason.ai](https://github.com/HeteroCat/jason.ai/blob/main/Hello.py)** – 个人主页项目，欢迎交流，很高兴认识你。
 - **[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)** – 共同撰写《ChatGPT原理与应用开发》，总结大模型应用案例与实战技巧。
-- **[HeteroCat/AsyncTrader](https://github.com/HeteroCat/AsyncTrader)** – 基于 LangChain 的量化交易智能体，自动生成策略并执行回测。
-- **[Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)** – 个人 AI 音乐项目
+- **[HeteroCat/AsyncTrader](https://github.com/HeteroCat/AsyncTrader)** – 2023百度大模型挑战赛最佳创意奖：一个基于 LangChain 的量化交易智能体，自动生成策略并执行回测。
+- **[Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)** – 个人AI音乐MV项目
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeteroCat&show_icons=true&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
