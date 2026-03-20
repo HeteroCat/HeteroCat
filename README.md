@@ -19,7 +19,7 @@
 
 Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language models with real-world products.
 
-- 现AI教育公司agent开发工程师，base 深圳
+- agent开发工程师
 - 🧠 专注于 **LLM 智能体、AI 自动化工作流**，把提示词工程落地到企业业务场景  
 - 📚 《ChatGPT原理与应用开发》共创作者，持续在开源社区与稀土掘金分享实践经验  
 - 🎵 探索 **AI 音乐与视觉艺术**，打造AI智能体系统 **Muses-System**  
