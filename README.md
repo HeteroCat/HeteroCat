@@ -36,12 +36,6 @@ Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language m
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeteroCat&layout=compact&bg_color=ffffff&hide_border=true&count_private=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Connect
 
 - Blog: [Hetero Cat](https://juejin.cn/user/2221479480010573)  
