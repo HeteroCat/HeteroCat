@@ -34,7 +34,7 @@ Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language m
 - **[AsyncTrader](https://github.com/HeteroCat/AsyncTrader)** – 基于 LangChain 的量化交易智能体，2023 百度大模型挑战赛最佳创意奖。
 - **[Hello-Agents](https://github.com/datawhalechina/hello-agents)** – 动手学多智能体系统实战教程与框架，Stars数60k+，2025.12.12登顶GitHub TRENDING top 1。
 - **[HelloAgents-TS](https://github.com/HeteroCat/HelloAgents-TS)** – 基于多智能体框架 HelloAgents 的TypeScript版本实现。
-- **[Muses-System](https://github.com/ButterStorm/Muses-System)** – 自研Agent Harness工程实现基于Agent的多模态创作平台，MusesOS的长远愿景是成为AI内容生产时代的创作网络。
+- **[Muses-System](https://github.com/ButterStorm/Muses-System)** – 自研Agent Harness工程实现基于Agent的多模态创作平台，MusesOS的长远愿景是成为AI内容生产时代的创作网络中的一环。
 
 ---
 
