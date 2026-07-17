@@ -43,7 +43,8 @@ Hi, I'm **Jason Huang (HeteroCat)** — an AI engineer blending large language m
 - Blog: [Hetero Cat](https://juejin.cn/user/2221479480010573)  
 - GitHub: [@HeteroCat](https://github.com/HeteroCat)  
 - Email: 1580823387@qq.com  
-- Douyin: [Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)  
+- Douyin: [Butterstorm](https://www.douyin.com/user/MS4wLjABAAAAvBkZt534BdaLk_KUZpdWBa3CzGgL-nvlMNZKWHD054U)
+- Wechat: h13128905803
 
 ---
 
